@@ -65,6 +65,6 @@ $ terraform apply -var-file=environments/staging.tfvars -auto-approve
 
 * [S3 Bucket](https://www.terraform.io/docs/providers/aws/r/s3_bucket.html)
 * [S3 Bucket Lifecycle](https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lifecycle-mgmt.html)
-* [S3 Bucket Server Side Encryption](hhttps://docs.aws.amazon.com/AmazonS3/latest/userguide/serv-side-encryption.html)
+* [S3 Bucket Server Side Encryption](https://docs.aws.amazon.com/AmazonS3/latest/userguide/serv-side-encryption.html)
 * [S3 Bucket Versioning](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Versioning.html)
 * [S3 Bucket Policy](https://www.terraform.io/docs/providers/aws/r/s3_bucket_object.html)
